@@ -35,6 +35,7 @@ path = "../template"
 | Day | Part 1 Time | Part 1 Runtime[^1] | Part 2 Time | Part 2 Runtime[^1] |
 |:-:|-:|-:|-:|-:|
 |  1 | 02:40:26 |  87.0µs | 02:54:46 |  92.5µs |
+|  2 | 02:14:52 |  84.9ms | 02:31:44 | 135.2ms |
 <!--|  1 | 00:13:19 |  5740 |  19.5µs | 00:21:33 |  5187 |  20.7µs | -->
 
 ## 🎄 Have a wonderful Holiday Season everyone! 🎄

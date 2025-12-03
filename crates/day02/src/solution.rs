@@ -36,7 +36,7 @@ fn find_invalid_ids_2(input: Vec<(usize, usize)>) -> usize {
                 if i_str.len() % j > 0 {
                     // skip if string can't be divided evenly
                     continue;
-                } 
+                }
                 let subset = &i_str[..j];
                 let matches = i_str.matches(subset).count();
                 if i_str.len() == subset.len() * matches {

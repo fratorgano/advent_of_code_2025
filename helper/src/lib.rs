@@ -3,6 +3,7 @@
 // helper ={ path = "../../helper"}
 
 pub mod input; // use helper::input:
+pub mod matrix; // use helper::matrix;
 
 #[cfg(test)]
 mod tests {}

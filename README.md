@@ -32,13 +32,14 @@ path = "../template"
 
 
 ## 🥛 Results 🍪
-| Day | Part 1 Time | Part 1 Runtime[^1] | Part 2 Time | Part 2 Runtime[^1] |
+| Day | Part 1 Time | Part 1 Runtime[^1] [^2] | Part 2 Time | Part 2 Runtime[^1] [^2] |
 |:-:|-:|-:|-:|-:|
 |  1 | 02:40:26 |  87.0µs | 02:54:46 |  92.5µs |
 |  2 | 02:14:52 |  84.9ms | 02:31:44 | 135.2ms |
 |  3 | 14:19:14 | 141.4µs | 15:16:19 | 215.2µs |
 |  4 | 02:08:58 |   3.3ms | 02:18:35 |  78.7ms |
 |  5 | 13:33:55 | 110.7ms | 15:16:09 |  40.3µs |
+|  6 | 16:09:21 |       - |     >24h |       - |
 <!--|  1 | 00:13:19 |  5740 |  19.5µs | 00:21:33 |  5187 |  20.7µs | -->
 
 ## 🎄 Have a wonderful Holiday Season everyone! 🎄
@@ -47,4 +48,4 @@ path = "../template"
 
 
 [^1]: `cargo run -p day** --release`, does not include the reading of the input file but includes parsing.
-<!--[^2]: Some values are missing since I solved that days without using the usual device I use -->
+[^2]: Some values are missing since I solved that days without using the usual device I use
